@@ -1,0 +1,3 @@
+AddressBookData{FirstName='ruchi', LastName='Mandve', Address='Sanpada', City='NaviMumbai', State='Maha', ZipCode=400, PhoneNumber='989273509', Email='ruchimandve@'}
+AddressBookData{FirstName='prachi', LastName='Mandve', Address='Sanpada', City='NaviMumbai', State='Maha', ZipCode=400, PhoneNumber='989273509', Email='ruchimandve@'}
+AddressBookData{FirstName='pratibha', LastName='Mandve', Address='Sanpada', City='NaviMumbai', State='Maha', ZipCode=400, PhoneNumber='989273509', Email='ruchimandve@'}
